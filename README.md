@@ -54,3 +54,47 @@ A passionate **MERN Stack Developer** from Kerala
 
 ![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📊 My Top Repositories by Stars
+
+```chartjs
+{
+  "type": "bar",
+  "data": {
+    "labels": ["TaskManager", "ECommerceApp", "ChatApp"],
+    "datasets": [{
+      "label": "GitHub Stars",
+      "data": [50, 30, 20],
+      "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56"],
+      "borderColor": ["#FF6384", "#36A2EB", "#FFCE56"],
+      "borderWidth": 1
+    }]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "beginAtZero": true,
+        "title": {
+          "display": true,
+          "text": "Number of Stars"
+        }
+      },
+      "x": {
+        "title": {
+          "display": true,
+          "text": "Repositories"
+        }
+      }
+    },
+    "plugins": {
+      "legend": {
+        "display": true,
+        "position": "top"
+      },
+      "title": {
+        "display": true,
+        "text": "My Top Repositories by Stars"
+      }
+    }
+  }
+}
