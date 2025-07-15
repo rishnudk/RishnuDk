@@ -16,6 +16,10 @@ A passionate **MERN Stack Developer** from Kerala
 ### 🌱 I’m currently learning
 - JavaScript, Node.js, Express.js, React.js, MongoDB, SQL , Next.js , TypeScript
 
+---
+
+### 👨‍💻 My projects
+All of my projects are available at [https://rishnudk.github.io/RishnuDk/](https://rishnudk.github.io/RishnuDk/)
 
 ---
 
