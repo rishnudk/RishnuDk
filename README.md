@@ -1,38 +1,34 @@
 
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Rishnu Dk
 
-A passionate **MERN Stack Developer** from [Your Location]
+A passionate **MERN Stack Developer** from Kerala
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 <p align="left">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/rishnudk"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/rishnudk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
 ### 🌱 I’m currently learning
-- JavaScript, Node.js, Express.js, React.js, MongoDB, SQL
+- JavaScript, Node.js, Express.js, React.js, MongoDB, SQL , Next.js , TypeScript
 
----
-
-### 👨‍💻 My projects
-All of my projects are available at [Your Portfolio Link](https://your-portfolio-link)
 
 ---
 
 ### 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](rishnudev@gmail.com)
 
 ---
 
 ### Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://linkedin.com/inrishnudk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/rishnudk"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://leetcode.com/rishnudk"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 ---
@@ -56,4 +52,4 @@ All of my projects are available at [Your Portfolio Link](https://your-portfolio
 
 ---
 
-![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical)
