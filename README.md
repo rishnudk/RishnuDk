@@ -20,7 +20,7 @@ A passionate **MERN Stack Developer** from Kerala
 ---
 
 ### 📫 How to reach me
-- Email: [your-email@example.com](rishnudev@gmail.com)
+- Email: [rishnudev@gmail.com]
 
 ---
 
