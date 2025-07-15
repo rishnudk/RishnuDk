@@ -56,7 +56,7 @@ A passionate **MERN Stack Developer** from Kerala
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 My Top Repositories by Stars
-
+<!-- 
 ```chartjs
 {
   "type": "bar",
@@ -97,4 +97,4 @@ A passionate **MERN Stack Developer** from Kerala
       }
     }
   }
-}
+} -->
