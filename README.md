@@ -4,7 +4,7 @@
 
 A passionate **MERN Stack Developer** from Kerala
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS "Current profile view count")
 
 <p align="left">
   <a href="https://github.com/rishnudk"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
