@@ -1,14 +1,27 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>RishnuDk Profile</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RishnuDk's Profile</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+    img { max-width: 100%; }
+    a { color: #0366d6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .badge { margin-right: 5px; }
+    .icon { margin-right: 5px; }
+  </style>
 </head>
 <body>
-  <canvas id="myChart"></canvas>
+  <div id="readme-content"></div>
+  <h3>My Top Repositories by Stars</h3>
+  <canvas id="myChart" width="400" height="200" aria-label="Bar chart showing GitHub stars for my top repositories"></canvas>
+  <p>Bar chart showing GitHub stars for my top repositories: TaskManager (50 stars), ECommerceApp (30 stars), and ChatApp (20 stars).</p>
   <script>
-    // Copy the Chart.js config from README.md here
+    // Render Chart.js
     const ctx = document.getElementById('myChart').getContext('2d');
     new Chart(ctx, {
       type: 'bar',
@@ -33,6 +46,13 @@
         }
       }
     });
+
+    // Fetch and render README.md
+    fetch('README.md')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('readme-content').innerHTML = marked.parse(data);
+      });
   </script>
 </body>
 </html>
