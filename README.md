@@ -53,3 +53,4 @@ A passionate **MERN Stack Developer** from Kerala
 ---
 
 ![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk)](https://github.com/anuraghazra/github-readme-stats)
