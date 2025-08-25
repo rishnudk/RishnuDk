@@ -2,7 +2,15 @@
 
 # Hi 👋, I'm Rishnu Dk
 
-A passionate **MERN Stack Developer** from Kerala
+I’m the kind of guy who builds apps when I face a problem , if there’s no app to solve it, I make one.
+
+Currently in the final phase of my MERN stack journey (started web development in 2024, now fully living it).
+
+ I’ve built several projects  and I’m preparing to step into open-source contributions — already learning a lot by exploring issue sections.
+
+ Actively connecting with developers and creators on X (Twitter) to share ideas, grow, and collaborate.
+
+ Open to collaborations, internships, and opportunities to build impactful products.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS "Current profile view count")
 
@@ -13,10 +21,7 @@ A passionate **MERN Stack Developer** from Kerala
 
 ---
 
-### 🌱 I’m currently learning
-- JavaScript, Node.js, Express.js, React.js, MongoDB, SQL , Next.js , TypeScript
 
----
 
 ### 👨‍💻 My projects
 All of my projects are available at [https://rishnudk.github.io/RishnuDk/](https://rishnudk.github.io/RishnuDk/)
