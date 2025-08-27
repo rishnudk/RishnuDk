@@ -35,7 +35,7 @@ All of my projects are available at [https://rishnudk.github.io/RishnuDk/](https
 
 ### Connect with me
 <p align="left">
-  <a href="https://linkedin.com/rishnudk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rishnudk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/rishnudk"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://leetcode.com/rishnudk"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
