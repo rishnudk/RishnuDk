@@ -1,27 +1,31 @@
-
 <div align="center">
-<h1><b>Rishnu Dk</b></h1>
-  **Full Stack Developer | MERN Stack | Open Source Enthusiast**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS)
-  
-  
+
+  <h1 style="font-weight: 800; font-size: 3rem;">✨ Rishnu Dk ✨</h1>
+  <h3>Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
+
+  <br/>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS" />
+
+  <br/><br/>
+
+  <!-- Portfolio -->
   <a href="https://rishnudk.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
-  
+
 </div>
 
 ---
 
-##  About Me
+## About Me
 
 > *"I'm the kind of guy who builds apps when I face a problem — if there's no app to solve it, I make one."*
 
-
--  Built several full-stack projects and actively exploring new technologies
-- 🌐 Actively connecting with developers and creators on **X (Twitter)** to share ideas and collaborate
-- 💼 **Open to collaborations, and opportunities** to build impactful products
+- Built several full-stack projects and actively exploring new technologies  
+- 🌐 Actively connecting with developers and creators on **X (Twitter)**  
+- 💼 **Open to collaborations and opportunities** to build impactful products  
 
 ---
 
@@ -32,7 +36,6 @@
 <!-- ================= FRONTEND ================= -->
 <h3>Frontend</h3>
 
-<!-- Existing Badges -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -42,31 +45,22 @@
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<!-- Newly Added -->
-
-
-
 <!-- ================= BACKEND ================= -->
 <h3>Backend</h3>
 
-<!-- Existing Badges -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<!-- Newly Added -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-
 <!-- ================= TOOLS ================= -->
 <h3>Tools & Others</h3>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-
-
 
 </div>
 
@@ -75,39 +69,38 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117)
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117"/>
 
 </div>
 
-
+---
 
 ## 📫 Connect With Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishnudk)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishnudk)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishnudk)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rishnudk)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishnudev@gmail.com)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishnudk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishnudk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishnudk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rishnudk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishnudev@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💡 *"Building solutions, one commit at a time"*
-  
- <div align="center">
 
-![Snake animation](https://github.com/rishnudk/rishnudk/blob/output/github-contribution-grid-snake.svg)
+### 💡 *"Building solutions, one commit at a time"*
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<img src="https://github.com/rishnudk/rishnudk/blob/output/github-contribution-grid-snake.svg" />
 
 </div>
-
-  
