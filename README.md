@@ -100,7 +100,13 @@
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
-<img src="https://github.com/rishnudk/rishnudk/blob/output/github-contribution-grid-snake.svg" />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 </div>
