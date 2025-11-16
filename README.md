@@ -1,80 +1,61 @@
 <div align="center">
 
-  <h1 style="font-weight: 800; font-size: 3rem;">✨ Rishnu Dk ✨</h1>
-  <h3>Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
+  <h1 style="font-weight: 800; font-size: 2.5rem; margin-bottom: -5px;">✨ Rishnu Dk ✨</h1>
+  <h3 style="margin-top: 5px;">Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
 
-  <br/>
+  <!-- Profile Views + Portfolio in same line -->
+  <div align="center" style="margin-top: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS" />
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS" />
-
-  <br/><br/>
-
-  <!-- Portfolio -->
-  <a href="https://rishnudk.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio">
-  </a>
+    <a href="https://rishnudk.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio">
+    </a>
+  </div>
 
 </div>
 
 ---
 
-## About Me
-
-> *"I'm the kind of guy who builds apps when I face a problem — if there's no app to solve it, I make one."*
-
-- Built several full-stack projects and actively exploring new technologies  
-- 🌐 Actively connecting with developers and creators on **X (Twitter)**  
-- 💼 **Open to collaborations and opportunities** to build impactful products  
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div align="center">
 
-<!-- ================= FRONTEND ================= -->
-<h3>Frontend</h3>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<!-- ================= BACKEND ================= -->
-<h3>Backend</h3>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-
-<!-- ================= TOOLS ================= -->
-<h3>Tools & Others</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-3982CE?style=for-the-badge&logo=trpc&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" 
+  height="140"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" 
+  height="140"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117"/>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117" 
+  height="140"
+/>
 
 </div>
 
@@ -94,13 +75,9 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
-
-### 💡 *"Building solutions, one commit at a time"*
-
-<br/>
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake-dark.svg">
@@ -108,5 +85,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 </div>
+
