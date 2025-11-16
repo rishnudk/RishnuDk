@@ -4,13 +4,13 @@
   <h3 style="margin-top: 5px;">Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
 
   <!-- Profile Views + Portfolio in same line -->
-  <div align="center" style="margin-top: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS" />
-
-    <a href="https://rishnudk.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
-    </a>
-  </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://rishnudk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <br />
+</div>
 
 </div>
 
@@ -41,22 +41,9 @@
 ## 📊 GitHub Stats 
 
 <div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" 
-  height="140"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" 
-  height="140"
-/>
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117" 
-  height="140"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="140" alt="GitHub stats" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="140" alt="Top languages" />&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117" height="140" alt="Streak stats" />
 </div>
 
 ---
