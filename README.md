@@ -1,10 +1,10 @@
 
 <div align="center">
 <h1><b>Rishnu Dk</b></h1>
+  **Full Stack Developer | MERN Stack | Open Source Enthusiast**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS)
   
-  **Full Stack Developer | MERN Stack | Open Source Enthusiast**
   
   <a href="https://rishnudk.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio">
@@ -83,19 +83,8 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117)
 
 </div>
-<!-- ## 🌟 Featured Projects
 
-<div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🎯 **TaskManager** | Efficient task management system | React, Node.js, MongoDB | [Demo](#) \| [Code](#) |
-| 🛒 **ECommerceApp** | Full-featured e-commerce platform | MERN Stack | [Demo](#) \| [Code](#) |
-| 💬 **ChatApp** | Real-time messaging application | React, Socket.io, Express | [Demo](#) \| [Code](#) |
-
-</div> -->
-
----
 
 ## 📫 Connect With Me
 
@@ -115,6 +104,11 @@
   
   ### 💡 *"Building solutions, one commit at a time"*
   
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+ <div align="center">
+
+![Snake animation](https://github.com/rishnudk/rishnudk/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
   
 </div>
