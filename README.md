@@ -83,10 +83,7 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117)
 
 </div>
-
----
-
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects
 
 <div align="center">
 
@@ -96,7 +93,7 @@
 | 🛒 **ECommerceApp** | Full-featured e-commerce platform | MERN Stack | [Demo](#) \| [Code](#) |
 | 💬 **ChatApp** | Real-time messaging application | React, Socket.io, Express | [Demo](#) \| [Code](#) |
 
-</div>
+</div> -->
 
 ---
 
