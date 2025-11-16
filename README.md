@@ -1,7 +1,5 @@
 
-
 <div align="center">
-
 <h1><b>Rishnu Dk</b></h1>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS)
