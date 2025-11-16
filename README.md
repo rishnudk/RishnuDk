@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="font-weight: 800; font-size: 2.5rem; margin-bottom: -5px;">✨ Rishnu Dk ✨</h1>
+  <h1 style="font-weight: 800; font-size: 2.5rem; margin-bottom: -5px;"> Rishnu Dk </h1>
   <h3 style="margin-top: 5px;">Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
 
   <!-- Profile Views + Portfolio in same line -->
@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS" />
 
     <a href="https://rishnudk.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
     </a>
   </div>
 
@@ -84,6 +84,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 </div>
 
