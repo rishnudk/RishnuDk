@@ -1,109 +1,104 @@
+# 👋 Hi, I'm Rishnu Dk
 
-
-# Hi 👋, I'm Rishnu Dk
-
-I’m the kind of guy who builds apps when I face a problem , if there’s no app to solve it, I make one.
-
-Currently in the final phase of my MERN stack journey (started web development in 2024, now fully living it).
-
- I’ve built several projects  and I’m preparing to step into open-source contributions — already learning a lot by exploring issue sections.
-
- Actively connecting with developers and creators on X (Twitter) to share ideas, grow, and collaborate.
-
- Open to collaborations, internships, and opportunities to build impactful products.
-
-![Profile Views](https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS "Current profile view count")
-
-<p align="left">
-  <a href="https://github.com/rishnudk"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/rishnudk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS)
+  
+  **Full Stack Developer | MERN Stack | Open Source Enthusiast**
+  
+  <a href="https://rishnudk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio">
+  </a>
+  
+</div>
 
 ---
 
+## 🚀 About Me
 
+> *"I'm the kind of guy who builds apps when I face a problem — if there's no app to solve it, I make one."*
 
-### 👨‍💻 My projects
-All of my projects are available at [https://rishnudk.github.io/RishnuDk/](https://rishnudk.github.io/RishnuDk/)
-
----
-
-### 📫 How to reach me
-- Email: [rishnudev@gmail.com]
-
----
-
-### Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishnudk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/rishnudk"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://leetcode.com/rishnudk"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"></a>
-</p>
+- 🌱 Currently in the **final phase of my MERN stack journey** (started web development in 2024)
+- 💻 Built several full-stack projects and actively exploring new technologies
+- 🤝 Preparing to step into **open-source contributions** — learning by exploring issue sections
+- 🌐 Actively connecting with developers and creators on **X (Twitter)** to share ideas and collaborate
+- 💼 **Open to collaborations, internships, and opportunities** to build impactful products
 
 ---
 
-### Languages and Tools
-<p align="left">
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3.org/Style/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.figma.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+</div>
 
 ---
 
-![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Statistics
 
-### 📊 My Top Repositories by Stars
-<!-- 
-```chartjs
-{
-  "type": "bar",
-  "data": {
-    "labels": ["TaskManager", "ECommerceApp", "ChatApp"],
-    "datasets": [{
-      "label": "GitHub Stars",
-      "data": [50, 30, 20],
-      "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56"],
-      "borderColor": ["#FF6384", "#36A2EB", "#FFCE56"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "title": {
-          "display": true,
-          "text": "Number of Stars"
-        }
-      },
-      "x": {
-        "title": {
-          "display": true,
-          "text": "Repositories"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top"
-      },
-      "title": {
-        "display": true,
-        "text": "My Top Repositories by Stars"
-      }
-    }
-  }
-} -->
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🎯 **TaskManager** | Efficient task management system | React, Node.js, MongoDB | [Demo](#) \| [Code](#) |
+| 🛒 **ECommerceApp** | Full-featured e-commerce platform | MERN Stack | [Demo](#) \| [Code](#) |
+| 💬 **ChatApp** | Real-time messaging application | React, Socket.io, Express | [Demo](#) \| [Code](#) |
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishnudk)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishnudk)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishnudk)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rishnudk)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishnudev@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 *"Building solutions, one commit at a time"*
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
