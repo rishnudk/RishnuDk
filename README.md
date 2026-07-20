@@ -1,6 +1,6 @@
 <h1 align="center">Rishnu Dk</h1>
 
-<h3 align="center">Full stack Developer builds from zero.</h3>
+<h3 align="center">Full stack Developer - Loves to build from scratch.</h3>
 
 <p align="center">
   <a href="https://x.com/rishnudk" target="_blank">twitter</a> •
@@ -13,15 +13,15 @@
 
 ### 🔷 Tech Stack
 
-**Languages & Frameworks:** TypeScript · JavaScript · React · Next.js · Node.js · Nest.js · Express
-**Database & ORM:** MongoDB · PostgreSQL · Prisma
-**Styling:** Tailwind CSS
+TypeScript · JavaScript · React · Next.js · Node.js · Nest.js · Express
+MongoDB · PostgreSQL · Prisma
+Tailwind CSS
 
 ---
 
 ### 🔷 Current Work
 
-- **[Interview Undo](https://github.com/rishnudk/interviewundo)** — Open-source interview platform.
+- **[Interview Undo](https://github.com/rishnudk/interviewundo)** — LeetCode-style interview practice platform focused on JavaScript, React, Node.js, and TypeScript.
 - **[Stack](https://github.com/rishnudk/Stack)** — Developer community platform to discover, connect, and collaborate with other developers.
 - **[Kerala Polling](https://github.com/rishnudk/kerala-polling)** — Web-based election opinion poll for Kerala.
 - **[XYTdownload](https://github.com/rishnudk/XYTdownload)** — Developer-mode Chrome extension for downloading media from X (Twitter).
