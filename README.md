@@ -1,75 +1,46 @@
-<div align="center">
+<h1 align="center">Rishnu Dk</h1>
 
-  <h1 style="font-weight: 800; font-size: 2.5rem; margin-bottom: -5px;"> Rishnu Dk </h1>
-  <h3 style="margin-top: 5px;">Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
+<h3 align="center">Full stack Developer builds from zero.</h3>
 
-  <!-- Profile Views + Portfolio in same line -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishnudk&color=green&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://rishnu.xyz/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <br />
-</div>
-
-</div>
+<p align="center">
+  <a href="https://x.com/rishnudk" target="_blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/rishnudk/" target="_blank">linkedin</a> •
+  <a href="https://github.com/rishnudk" target="_blank">github</a> •
+  <a href="mailto:rishnudev@gmail.com" target="_blank">email</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack 
+### 🔷 Tech Stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-3982CE?style=for-the-badge&logo=trpc&logoColor=white" />
-
-</div>
+**Languages & Frameworks:** TypeScript · JavaScript · React · Next.js · Node.js · Nest.js · Express
+**Database & ORM:** MongoDB · PostgreSQL · Prisma
+**Styling:** Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats 
+### 🔷 Current Work
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishnudk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="140" alt="GitHub stats" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishnudk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="140" alt="Top languages" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishnudk&theme=radical&hide_border=true&background=0D1117" height="140" alt="Streak stats" />
-</div>
+- **[Interview Undo](https://github.com/rishnudk/interviewundo)** — Open-source interview platform.
+- **[Stack](https://github.com/rishnudk/Stack)** — Developer community platform to discover, connect, and collaborate with other developers.
+- **[Kerala Polling](https://github.com/rishnudk/kerala-polling)** — Web-based election opinion poll for Kerala.
+- **[XYTdownload](https://github.com/rishnudk/XYTdownload)** — Developer-mode Chrome extension for downloading media from X (Twitter).
+- **[BookmarkFolder](https://github.com/rishnudk/BookmarkFolder)** — Fully customizable New Tab replacement for any browser.
 
----
 
-## 📫 Connect With Me
+#### 🔷 building from zero
 
-<div align="center">
+I work across the entire development lifecycle — frontend, backend, full-stack, and AI-powered experiences — from UI/UX through deployment and user feedback. I care less about technology debates and more about shipping results people actually love using.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishnudk)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishnudk)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishnudk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rishnudk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishnudev@gmail.com)
 
-</div>
+### 🔷 Currently Exploring
+
+- **AI/ML systems** — Integrating LLMs into production apps and building intelligent user experiences.
+- **Full-stack architecture** — Designing scalable, maintainable systems from UI to backend infrastructure.
+- **Developer experience** — Building tools and extensions that streamline development workflows.
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishnudk/rishnudk/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <img src="https://komarev.com/ghpvc/?username=rishnudk&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
+
