@@ -26,6 +26,8 @@ Tailwind CSS
 - **[Kerala Polling](https://github.com/rishnudk/kerala-polling)** — Web-based election opinion poll for Kerala.
 - **[XYTdownload](https://github.com/rishnudk/XYTdownload)** — Developer-mode Chrome extension for downloading media from X (Twitter).
 - **[BookmarkFolder](https://github.com/rishnudk/BookmarkFolder)** — Fully customizable New Tab replacement for any browser.
+- **[email follow-up](https://github.com/rishnudk/email-followUP)** — email follow-up that seamlessly integrates with Gmail.
+
 
 
 #### 🔷 building from zero
