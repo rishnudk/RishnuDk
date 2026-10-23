@@ -13,9 +13,7 @@
 
 ### 🔷 Tech Stack
 
-TypeScript · JavaScript · React · Next.js · Node.js · Nest.js · Express
-MongoDB · PostgreSQL · Prisma
-Tailwind CSS
+TypeScript · JavaScript · React · · React Native ·Next.js · Node.js · Nest.js · Express · MongoDB · PostgreSQL · Prisma · Tailwind CSS ·
 
 ---
 
